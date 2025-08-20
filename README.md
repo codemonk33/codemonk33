@@ -4,11 +4,26 @@
 
 ---
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="110" height="30"/>](https://www.linkedin.com/in/your-linkedin)
-[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="110" height="30"/>](https://github.com/your-github)
-[<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" width="110" height="30"/>](https://leetcode.com/your-leetcode)
-[<img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="110" height="30"/>](https://codeforces.com/profile/your-codeforces)
-[<img src="https://img.shields.io/badge/Portfolio-0A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" width="110" height="30"/>](https://your-portfolio-url)
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/your-github" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/your-leetcode" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/your-codeforces" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://your-portfolio-url" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 
 ---
 
