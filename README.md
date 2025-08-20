@@ -125,13 +125,26 @@
 ---
 
 ## 📫 Reach Me
-<p>
-  <a href="mailto:tiwariomse@gmail.com" target="_blank">✉️ Email</a> ·
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">🔗 LinkedIn</a> ·
-  <a href="https://github.com/codemonk33" target="_blank">🐙 GitHub</a> ·
-  <a href="https://leetcode.com/codemonk33" target="_blank">🧩 LeetCode</a> ·
-  <a href="https://codeforces.com/profile/codemonk33" target="_blank">⚡ Codeforces</a> ·
-  <a href="https://www.codechef.com/users/codemonk33" target="_blank">🍫 CodeChef</a>
+
+<p align="center">
+  <a href="mailto:tiwariomse@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/codemonk33" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/codemonk33" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  <a href="https://codeforces.com/profile/codemonk33" target="_blank">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+  </a>
+  <a href="https://www.codechef.com/users/codemonk33" target="_blank">
+    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white">
+  </a>
 </p>
 
 ---
