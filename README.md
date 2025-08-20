@@ -4,11 +4,11 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="110" height="30"/>](https://www.linkedin.com/in/your-linkedin)
+[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="110" height="30"/>](https://github.com/your-github)
+[<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" width="110" height="30"/>](https://leetcode.com/your-leetcode)
+[<img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="110" height="30"/>](https://codeforces.com/profile/your-codeforces)
+[<img src="https://img.shields.io/badge/Portfolio-0A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" width="110" height="30"/>](https://your-portfolio-url)
 
 ---
 
@@ -61,7 +61,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codemonk33&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=your-leetcode&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
