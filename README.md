@@ -67,7 +67,7 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=your-leetcode&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats.vercel.app/api?username=codemonk33&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
