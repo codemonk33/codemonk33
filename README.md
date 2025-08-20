@@ -86,12 +86,6 @@
 </p>
 
 <!-- CodeChef Rating (with graceful fallback) -->
-<p align="center">
-  <a href="https://www.codechef.com/users/codemonk33" target="_blank">
-    <img src="https://codechef-api.vercel.app/codemonk33" alt="CodeChef Stats"/>
-  </a>
-</p>
-
 
 ---
 
