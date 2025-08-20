@@ -86,7 +86,8 @@
 </p>
 
 <!-- CodeChef Rating (with graceful fallback) -->
-[![CodeChef Stats](./codechef-stats.svg)](https://www.codechef.com/users/codemonk33)
+[![CodeChef Rating](https://cp-logo.vercel.app/codechef/codemonk33)](https://www.codechef.com/users/codemonk33)
+s
 
 
 ---
