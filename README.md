@@ -77,11 +77,11 @@
 ## ​ GitHub & Competitive Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codemonk33&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=your-leetcode&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats.vercel.app/api?username=codemonk33&theme=dark" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
