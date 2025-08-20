@@ -1,10 +1,10 @@
 # Hey there, I'm Om Tiwari! 👋
 
-### A curious and passionate Computer Engineering undergrad from Mumbai University | Lifelong learner | Problem solver & builder 🚀
+### Curious and passionate Computer Engineering undergrad from Mumbai University | Lifelong learner | Problem solver & builder 🚀
 
 ---
 
-## 🌐 Connect with Me  
+## ​ Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
@@ -19,33 +19,34 @@
   <a href="https://codeforces.com/profile/your-codeforces" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
+  <a href="https://www.codechef.com/users/your-codechef" target="_blank">
+    <img src="https://cp-logo.vercel.app/codechef/your-codechef" alt="CodeChef Badge"/>
+  </a>
   <a href="https://your-portfolio-url" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
+---
+
+## ​ What I'm Working On
+
+- 🎯 **CureAi** — AI-powered health guide using React Native, with voice support and emergency features.
+- 📅 **To-Do List App** — Upgrading to real-time sync, offline capabilities, and push notifications.
 
 ---
 
-## 🔭 What I’m working on right now
+## ​ About Me
 
-- 🎯 Building **CureAi** — A React Native-powered AI health guide with a friendly UI, audio support, and emergency features.  
-- 📅 Enhancing my **To-Do List app** with real-time sync, offline mode, and push notifications.  
-
----
-
-## 💡 About Me
-
-- 👨‍🎓 Computer Engineering (B.E.) Student — GPA: 8.1 @ Atharva College of Engineering (2023-2027)  
-- 🏅 Runner Up at St. Xavier’s College Engineering Hackathon  
-- 🐍 Python Certified (Basic) by HackerRank  
-- 🔍 Passionate about problem-solving, clean code, and building impactful software  
-- 💬 Fluent in C, C++, Python, JavaScript & libraries like React, React Native, Node.js  
-- 📚 Continuously learning advanced software development and AI  
+- 👨‍🎓 B.E. in Computer Engineering — Atharva College of Engineering (2023–2027), GPA: 8.1  
+- 🏅 Runner-Up, St. Xavier’s College Engineering Hackathon  
+- 🐍 Python (Basic) Certified — HackerRank  
+- 💬 Proficient in: C, C++, Python, JavaScript; frameworks: React, React Native, Node.js  
+- 🔍 Driven by clean code, problem-solving, and impactful software design  
 
 ---
 
-## 🧰 My Toolbox
+## ​ Toolbox
 
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
@@ -62,37 +63,40 @@
 
 ---
 
-## 📫 How to Reach Me
+## ​ Contact Me
 
-<p>
-<a href="mailto:tiwariomse@gmail.com" target="_blank">✉️ Email</a> ·
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">🔗 LinkedIn</a> ·
-<a href="https://github.com/your-github" target="_blank">🐙 GitHub</a> ·
-<a href="https://leetcode.com/your-leetcode" target="_blank">🧩 LeetCode</a>
+<p align="center">
+  <a href="mailto:tiwariomse@gmail.com" target="_blank">✉️ Email</a> ·
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">🔗 LinkedIn</a> ·
+  <a href="https://github.com/your-github" target="_blank">🐙 GitHub</a> ·
+  <a href="https://leetcode.com/your-leetcode" target="_blank">🧩 LeetCode</a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## ​ GitHub & Competitive Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-## 🧩 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=your-leetcode&theme=dark" alt="LeetCode Stats" />
+</p>
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=codemonk33&theme=dark" alt="LeetCode Stats" />
+  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=your-codeforces)](https://codeforces.com/profile/your-codeforces)  
+  [![CodeChef Badge](https://cp-logo.vercel.app/codechef/your-codechef)](https://www.codechef.com/users/your-codechef)
 </p>
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 <details>
 <summary>Click me 👇</summary>
 
 > “The best error message is the one that never shows up.” – Thomas Fuchs  
-> I strive to write code that "just works" 🤓
+> I strive to write code that *just works* 🤓
 
 </details>
