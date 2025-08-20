@@ -86,11 +86,8 @@
 </p>
 
 <!-- CodeChef Rating (with graceful fallback) -->
-<p align="center">
-  <a href="https://www.codechef.com/users/codemonk33" target="_blank">
-    <img alt="CodeChef Stats" src="https://cp-logo.vercel.app/codechef/codemonk33"/>
-  </a>
-</p>
+[![CodeChef](https://cp-logo.vercel.app/codechef/codemonk33)](https://www.codechef.com/users/codemonk33)
+
 
 ---
 
