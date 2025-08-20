@@ -88,12 +88,9 @@
 <!-- CodeChef Rating (with graceful fallback) -->
 <p align="center">
   <a href="https://www.codechef.com/users/codemonk33" target="_blank">
-    <!-- Try live rating badge first -->
     <picture>
-      <source srcset="https://cp-logo.vercel.app/codechef/codemonk33" type="image/svg+xml">
-      <!-- Fallback if cp-logo is down -->
-      <img alt="CodeChef Profile"
-           src="https://img.shields.io/badge/CodeChef-View%20Profile-brown?style=for-the-badge&logo=codechef&logoColor=white">
+      <source srcset="https://codechef-stats-api.vercel.app/codemonk33" type="image/svg+xml">
+      <img alt="CodeChef Profile" src="https://img.shields.io/badge/CodeChef-View%20Profile-brown?style=for-the-badge&logo=codechef&logoColor=white">
     </picture>
   </a>
 </p>
