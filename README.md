@@ -90,7 +90,7 @@ Jan 2024 – Feb 2024
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codemonk33&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
