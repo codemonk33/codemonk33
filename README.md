@@ -47,35 +47,6 @@
 
 ---
 
-## 🌟 Projects Highlights
-
-### CureAi - Your Visual Health Guide 🤖💊  
-A mobile app built with React Native and TypeScript featuring:  
-- Interactive 3D symptom checker with audio guidance  
-- AI-powered health analysis reporting causes, severity & nutrition tips  
-- Emergency contact & immediate symptom guidance button  
-- Elderly-friendly UI with big fonts, high contrast & touch-friendly controls  
-[Explore CureAi →](https://github.com/your-github/cureai)
-
-### To-Do List App 📋⚡  
-A fully featured cross-platform task manager built with React Native, Node.js, and MongoDB:  
-- Task CRUD, categories, due dates, reminders & offline support  
-- Secure JWT authentication with bcrypt  
-- Real-time sync, dark mode, search & push notifications  
-[Check out To-Do List →](https://github.com/your-github/todo-list-app)
-
----
-
-## 💼 Experience
-
-**Software Developer Intern** | Prodigy Infotech (Remote)  
-Jan 2024 – Feb 2024  
-- Developed 4+ mini-projects (Sudoku solver, Number Guessing, Contact Manager, Temperature Converter) with Python & OOP  
-- Improved debugging & testing skills, reducing errors by 25%  
-- Delivered projects on time including full SDLC exposure
-
----
-
 ## 📫 How to Reach Me
 
 <p>
