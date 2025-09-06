@@ -13,7 +13,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/omtiwari666" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/codemonk33" target="_blank">
@@ -35,7 +35,7 @@
 
 ---
 
-## 🔭 What I’m working on
+## 🔭 What I’m Working On
 - 🎯 Building **CureAi** — a React Native-powered AI health guide with friendly UI, audio, and emergency features.  
 - 📅 Upgrading my **To-Do List app** with real-time sync, offline mode, and push notifications.
 
@@ -52,12 +52,11 @@
 ---
 
 ## 🧰 Toolbox
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
@@ -69,7 +68,6 @@
 
 ## 📊 Competitive Programming — Live Stats
 
-<!-- Codeforces Stats Card -->
 <p align="center">
   <a href="https://codeforces.com/profile/codemonk33" target="_blank">
     <img alt="Codeforces Stats"
@@ -77,15 +75,12 @@
   </a>
 </p>
 
-<!-- LeetCode Stats Card -->
 <p align="center">
   <a href="https://leetcode.com/u/codemonk66/" target="_blank">
     <img alt="LeetCode Stats"
          src="https://leetcard.jacoblin.cool/codemonk66?ext=heatmap&border=0&radius=12&theme=unicorn"/>
   </a>
 </p>
-
-<!-- CodeChef Rating (with graceful fallback) -->
 
 ---
 
@@ -119,20 +114,8 @@
   <a href="mailto:tiwariomse@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/omtiwari666" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/codemonk33" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/codemonk66/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-  <a href="https://codeforces.com/profile/codemonk33" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
-  </a>
-  <a href="https://www.codechef.com/users/codemonk33" target="_blank">
-    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
 </p>
 
