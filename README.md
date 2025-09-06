@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Contact & Social Badges -->
-  <a href="https://www.linkedin.com/in/omtiwari666" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/codemonk33" target="_blank">
