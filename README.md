@@ -28,7 +28,7 @@
   <a href="https://www.codechef.com/users/codemonk33" target="_blank">
     <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
-  <a href="https://your-portfolio-url" target="_blank">
+  <a href="https://tiwariom.netlify.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
